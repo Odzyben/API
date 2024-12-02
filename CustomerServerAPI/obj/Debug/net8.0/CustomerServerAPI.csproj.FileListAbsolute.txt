@@ -1,0 +1,380 @@
+D:\CustomerServerAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\CustomerServerAPI\bin\Debug\net8.0\appsettings.json
+D:\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.exe
+D:\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.deps.json
+D:\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.runtimeconfig.json
+D:\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.pdb
+D:\CustomerServerAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\EntityFramework.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.csproj.AssemblyReference.cache
+D:\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.AssemblyInfoInputs.cache
+D:\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.AssemblyInfo.cs
+D:\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.csproj.CoreCompileInputs.cache
+D:\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\CustomerServerAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\CustomerServerAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\CustomerServerAPI\obj\Debug\net8.0\staticwebassets\msbuild.CustomerServerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CustomerServerAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.CustomerServerAPI.props
+D:\CustomerServerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CustomerServerAPI.props
+D:\CustomerServerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CustomerServerAPI.props
+D:\CustomerServerAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CustomerServerAPI\obj\Debug\net8.0\scopedcss\bundle\CustomerServerAPI.styles.css
+D:\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.csproj.CopyComplete
+D:\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.dll
+D:\CustomerServerAPI\obj\Debug\net8.0\refint\CustomerServerAPI.dll
+D:\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.pdb
+D:\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.genruntimeconfig.cache
+D:\CustomerServerAPI\obj\Debug\net8.0\ref\CustomerServerAPI.dll
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.csproj.AssemblyReference.cache
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.AssemblyInfoInputs.cache
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.AssemblyInfo.cs
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.csproj.CoreCompileInputs.cache
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.dll
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\refint\CustomerServerAPI.dll
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.pdb
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\appsettings.json
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.exe
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.deps.json
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.runtimeconfig.json
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.pdb
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\EntityFramework.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\TestTaskAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\staticwebassets\msbuild.CustomerServerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.CustomerServerAPI.props
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CustomerServerAPI.props
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CustomerServerAPI.props
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\scopedcss\bundle\CustomerServerAPI.styles.css
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.csproj.CopyComplete
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.genruntimeconfig.cache
+D:\TestTaskAPI\CustomerServerAPI\obj\Debug\net8.0\ref\CustomerServerAPI.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\appsettings.json
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.exe
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.deps.json
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.runtimeconfig.json
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.pdb
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\EntityFramework.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\TestAPI\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.csproj.AssemblyReference.cache
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.AssemblyInfoInputs.cache
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.AssemblyInfo.cs
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.csproj.CoreCompileInputs.cache
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\staticwebassets\msbuild.CustomerServerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.CustomerServerAPI.props
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CustomerServerAPI.props
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CustomerServerAPI.props
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\scopedcss\bundle\CustomerServerAPI.styles.css
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.csproj.CopyComplete
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.dll
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\refint\CustomerServerAPI.dll
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.pdb
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.genruntimeconfig.cache
+D:\TestAPI\CustomerServerAPI\obj\Debug\net8.0\ref\CustomerServerAPI.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\appsettings.json
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.exe
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.deps.json
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.runtimeconfig.json
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\CustomerServerAPI.pdb
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\EntityFramework.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\TestAPI – копія\CustomerServerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.csproj.AssemblyReference.cache
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.AssemblyInfoInputs.cache
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.AssemblyInfo.cs
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.csproj.CoreCompileInputs.cache
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\staticwebassets\msbuild.CustomerServerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.CustomerServerAPI.props
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CustomerServerAPI.props
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CustomerServerAPI.props
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\scopedcss\bundle\CustomerServerAPI.styles.css
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.csproj.CopyComplete
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.dll
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\refint\CustomerServerAPI.dll
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.pdb
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\CustomerServerAPI.genruntimeconfig.cache
+D:\TestAPI – копія\CustomerServerAPI\obj\Debug\net8.0\ref\CustomerServerAPI.dll
